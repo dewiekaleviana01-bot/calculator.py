@@ -37,10 +37,10 @@ Program ini adalah kalkulator sederhana berbasis Python yang dijalankan melalui 
 * Jalankan program
 * Ikuti instruksi di layar:
   1. Masukkan nama
-  2. Pilih operasi matematika (+, -, *, /)
-  3. Masukkan angka pertama dan angka kedua
+  2. Masukkan angka pertama dan angka kedua 
+  3. Pilih operasi matematika (+, -, *, /)
   4. Lihat hasil perhitungan
 
 ## Authors
 
-Name: DEwi Eka Leviana
+Name: Dewi Eka Leviana
